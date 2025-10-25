@@ -68,3 +68,6 @@ The project successfully demonstrated the potential of deep learning to improve 
 * **Advanced Architecture Search:** Investigate the use of pre-trained backbones (e.g., ResNet) within the Residual U-Net via transfer learning to optimize feature extraction further.
 * **Clinical Integration:** Develop a plan to deploy the trained model as a service that can interface with a hospital's medical imaging system (PACS) for real-time, large-scale validation.
 * **Extension to Multi-Nodule:** Expand the model’s capability to perform multi-class segmentation, allowing it to distinguish between various types of thyroid nodules.
+
+## Deployment
+* **Streamlit Link:** https://capstone-thyroid-predictor-pa.streamlit.app/
