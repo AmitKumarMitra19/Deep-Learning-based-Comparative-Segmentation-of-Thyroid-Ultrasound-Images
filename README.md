@@ -70,4 +70,4 @@ The project successfully demonstrated the potential of deep learning to improve 
 * **Extension to Multi-Nodule:** Expand the model’s capability to perform multi-class segmentation, allowing it to distinguish between various types of thyroid nodules.
 
 ## Deployment
-* **Streamlit Link:** https://thyro-ai-ap.streamlit.app/
+* **Streamlit Link:** 
